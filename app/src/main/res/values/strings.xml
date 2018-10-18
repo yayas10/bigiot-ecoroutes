@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EcoRouting</string>
+    <string name="title_activity_route">Map</string>
+
+    <!-- Permission -->
+    <string name="permission_part1">The application needs </string>
+    <string name="permission_part2"> permission to behave as defined.</string>
+</resources>
